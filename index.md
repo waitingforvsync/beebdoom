@@ -1,6 +1,3 @@
----
-title: Doom on the BBC Micro
----
 ## Introduction
 
 You can use the [editor on GitHub](https://github.com/waitingforvsync/beebdoom/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
