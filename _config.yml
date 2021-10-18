@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Doom on the BBC Micro
 description: A journey through the development of a portal engine on the 6502
+show_downloads: false
 github:
   is_project_page: false
   
